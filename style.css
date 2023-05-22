@@ -1,0 +1,46 @@
+.logo-img {
+    width: 40px;
+}
+
+.nav-item {
+    font-weight: bold;
+
+}
+
+.quem {
+   color: black;
+   text-align: center;
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding-top: 2%;
+}
+
+.bd-placeholder-img rounded-circle {
+    text-align: center;
+    display: block;
+}
+
+.col-lg-4 {
+    text-align: center;
+    padding: 0 5% 5% 5%;   
+}
+
+.comentario1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.botaocontato1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    padding-bottom: 50px;    
+}
+
+.container1 {
+    text-align: center;
+    width: 100%;
+
+}
